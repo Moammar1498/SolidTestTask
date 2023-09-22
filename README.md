@@ -55,3 +55,7 @@ You can customize the app by modifying the following files:
 Enjoy your Flutter Random Color App!
 
 ## Demo
+
+
+https://github.com/Moammar1498/SolidTestTask/assets/125560888/f24b6574-8ca6-4a9d-99e9-8015a228180f
+
