@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testtask/color_service.dart';
+import 'package:testtask/services/color_service.dart';
 
 /// This is one and only stateful widget which shows Text and random background.
 class Home extends StatefulWidget {

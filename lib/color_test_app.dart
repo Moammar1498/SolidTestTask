@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testtask/home.dart';
+import 'package:testtask/pages/home.dart';
 
 ///This is the starting point of our app
 class ColorTestApp extends StatelessWidget {
